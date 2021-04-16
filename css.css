@@ -1,0 +1,32 @@
+#input1{
+	border-radius: 2px;
+	background-color: rgba(0,0,0,0.6);
+	color: #F0F8FF;
+	width: 400px;
+	height: 30px;
+}
+#input2{
+    border-radius: 2px;
+    background-color: rgba(0,0,0,0.6);
+    color: #F0F8FF;
+    width: 200px;
+    height: 35px;
+}
+.input{
+	text-align: center;
+}
+.img{
+	text-align: center;
+}
+.h{
+	text-align: center;
+}
+a{
+	color: aliceblue;
+	text-decoration: none;
+}
+h1{
+	color: #F0F8FF;
+}
+
+
